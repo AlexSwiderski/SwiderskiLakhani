@@ -15,7 +15,7 @@ church,building
 house,building
 igloo,building
 arch,building part
-chimn ey,building part
+chimney,building part
 closet,building part
 door,building part
 window,building part
@@ -57,5 +57,5 @@ tomato,vegetable
 airplane,vehicles
 bicycle,vehicles
 carrot,vehicles
-tarin,vehicles
+train,vehicles
 truck,vehicles
